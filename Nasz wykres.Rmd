@@ -1,0 +1,13 @@
+---
+title: "Nasz wykres"
+author: "Justyna Zmuda, Błażej Bojka, Mateusz .."
+date: "2024-11-22"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
